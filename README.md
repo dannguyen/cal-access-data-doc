@@ -13,7 +13,7 @@ Looking at CAL-ACCESS finance and lobbying data as provided by the [California S
 - [Landing page for CAL-ACCESS raw data](http://www.sos.ca.gov/prd/cal-access/)
 - [California Civic Data Coalition](https://github.com/california-civic-data-coalition) - online consortium of  newsie-hackers working with the CAL-ACCESS data
 - [Forms with the Cal Format](www.fppc.ca.gov)
-- 
+
 
 #### What is CAL-ACCESS?
 
